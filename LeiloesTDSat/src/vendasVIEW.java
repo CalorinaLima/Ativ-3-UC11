@@ -96,7 +96,7 @@ public class vendasVIEW extends javax.swing.JFrame {
     }//GEN-LAST:event_produtoNomeActionPerformed
 
     private void BotaoStatusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BotaoStatusActionPerformed
-        JOptionPane.showMessageDialog(rootPane, "Vendido!");        // TODO add your handling code here:
+        JOptionPane.showMessageDialog(rootPane, "Vendido com sucesso!!");        // TODO add your handling code here:
     }//GEN-LAST:event_BotaoStatusActionPerformed
 
     public static void main(String args[]) {
